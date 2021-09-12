@@ -1,0 +1,84 @@
+{
+    "grocery":[
+        {
+            "Slno":"1",
+            "Name":"Tomato",
+            "Quantity":"1.5",
+            "Unit":"kg",
+            "Dept":"Vegetables",
+            "Notes":"Fresh"
+        },
+        {
+            "Slno":"2",
+            "Name":"Potato",
+            "Quantity":"1",
+            "Unit":"kg",
+            "Dept":"Vegetables",
+            "Notes":"Firm and smooth"
+        },
+        {
+            "Slno":"3",
+            "Name":"Apple",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Dept":"Fruits",
+            "Notes":"Reddish and sweet"
+        },
+        {
+            "Slno":"4",
+            "Name":"Onion",
+            "Quantity":"2.5",
+            "Unit":"kg",
+            "Dept":"Vegetables",
+            "Notes":"Dry and papery skin"
+        },
+        {
+            "Slno":"5",
+            "Name":"Wheat flour",
+            "Quantity":"3",
+            "Unit":"kg",
+            "Dept":"Flour",
+            "Notes":"Good Protein content"
+        },
+        {
+            "Slno":"6",
+            "Name":"Egg",
+            "Quantity":"10",
+            "Unit":"Number",
+            "Dept":"Poultry",
+            "Notes":"Duck egg"
+        },
+        {
+            "Slno":"7",
+            "Name":"Orange",
+            "Quantity":"1.5",
+            "Unit":"kg",
+            "Dept":"Fruits",
+            "Notes":"Fresh and sweet"
+        },
+        {
+            "Slno":"8",
+            "Name":"Meat",
+            "Quantity":"2",
+            "Unit":"kg",
+            "Dept":"Non-Veg",
+            "Notes":"Fresh Chicken"
+        },
+        {
+            "Slno":"9",
+            "Name":"Milk",
+            "Quantity":"2",
+            "Unit":"litre",
+            "Dept":"Dairy",
+            "Notes":"Milma"
+        },
+        {
+            "Slno":"10",
+            "Name":"Biscuit",
+            "Quantity":"2",
+            "Unit":"Packet",
+            "Dept":"Bakery",
+            "Notes":"Creamy and choclate"
+        }
+    ]
+}
