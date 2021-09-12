@@ -7,7 +7,7 @@ h1{
     color:darkgreen;
 }
 body{
-    background-image:url(grocery1.jpg);
+    background-image:url(./images/grocery1.jpg);
     background-size:cover;
     background-repeat: no-repeat;
 }
